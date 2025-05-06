@@ -1,0 +1,19 @@
+{"properties": [
+  {
+    "name": "organization",
+    "type": "java.lang.String",
+    "description": "A description for 'organization'"
+  },
+  {
+    "name": "employee.id",
+    "type": "java.lang.String",
+    "description": "A description for 'employee.id'"
+  }
+]} "description": "A description for 'organization'"
+  },
+  {
+    "name": "organization",
+    "type": "java.lang.String",
+    "description": "A description for 'organization'"
+  }
+]}
